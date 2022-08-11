@@ -1,1 +1,1 @@
-git deneme
+git deneme 1 2
